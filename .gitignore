@@ -1,0 +1,7 @@
+# Local-only working files (presenter notes, planning docs)
+AvS_speaker_notes.md
+plan.md
+
+# Local backups / pre-edit snapshots — never push
+AvS_backup*.html
+AvS_pre_*.html
