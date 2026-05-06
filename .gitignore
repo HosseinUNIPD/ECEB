@@ -5,3 +5,5 @@ plan.md
 # Local backups / pre-edit snapshots — never push
 AvS_backup*.html
 AvS_pre_*.html
+__pycache__/
+*.pyc
